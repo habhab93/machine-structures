@@ -29,3 +29,7 @@ Took about 10 hours.
 project 3 (completed with Puneet Dewan):
 
 Part 1 of this project: memory allocation and SSE instructions made the biggest increases in gigaflops for the project.
+
+Part 2 of this project: using openMP and privatizing variables to be used efficiently to further increase gigaflops.
+
+Took about 8 hours.
