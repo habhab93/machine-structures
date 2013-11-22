@@ -33,3 +33,9 @@ Part 1 of this project: memory allocation and SSE instructions made the biggest 
 Part 2 of this project: using openMP and privatizing variables to be used efficiently to further increase gigaflops.
 
 Took about 8 hours; completed with Puneet Dewan.
+
+project 4 (http://www-inst.eecs.berkeley.edu/~cs61c/fa13/proj/04/):
+
+Completed in Logisim. Consists of Regfile.circ, alu.circ, cpu.circ.
+
+Took about 20-25 hours.
