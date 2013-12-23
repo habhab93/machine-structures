@@ -1,7 +1,7 @@
-CS61C-projects
+machine structures course
 ==============
 
-contains code for CS61C - Machine Structures projects from UC Berkeley. much of the existing code was given 
+contains code for Machine Structures course projects from UC Berkeley. much of the existing code was given 
 by the instructional staff.
 
 Notes:
