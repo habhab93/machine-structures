@@ -17,7 +17,7 @@ Took about 10 hours.
 
 project 2 (http://www-inst.eecs.berkeley.edu/~cs61c/fa13/proj/02/):
 
-consists of proj1.c and proj2.c
+consists of part1.c and part2.c
 
 types.h contains the given data types we were able to work with
 
